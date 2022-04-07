@@ -1,0 +1,13 @@
+/* will be applied to index and about pages */
+h1{
+    font-family:fantasy
+}
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    padding: 10px;
+}
+.paddingspace{
+    padding: 20px;
+}
